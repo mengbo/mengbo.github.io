@@ -15,7 +15,7 @@ My Posts
 My Projects
 -----------
 
-* [mengbo.github.com](https://github.com/mengbo/mengbo.github.com)：就是这个博客本身，没有别的东西。
+* [mengbo.github.io](https://github.com/mengbo/mengbo.github.io)：就是这个页面，没有别的东西。
 * [install](https://github.com/mengbo/install)：Mac、Linux 等系统及软件安装过程中用到的一些脚本。
 * [splite.vim](https://github.com/mengbo/splite.vim)：一个基于 vundle 的 Vim 配置框架，此框架把每个插件的配置限制在一个独立的文件中了。
 * [telnetdevice](https://github.com/mengbo/telnetdevice)：用 Ruby 写的针对 CISCO/Ruijie/H3C 网络设备的 telnet 工具。

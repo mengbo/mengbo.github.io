@@ -25,5 +25,5 @@ My Projects
 About Me
 --------
 
-* Meng Bo - mengbo@lnu.edu.cn
+* Meng Bo - <mengbo@lnu.edu.cn>
 
